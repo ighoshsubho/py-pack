@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: ighoshsubho
+Version: 0.0.1
+Summary: For knowing about me
+Home-page: https://github.com/ighoshsubho/py-pack
+Author: Subho Ghosh
+Author-email: ighoshsubho@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+{
+    "About" : "Hi, Subho this side 👋",
+    "I'm" : "Into ML and Backend Development",
+    "Learning" : "Neural Networks and Deep learning",
+    "Loves to" : "Explore different technologies",
+    "Reach me at" : "ighoshsubho@gmail.com"
+    "Ride the space skyway home to 80s Miami" : "https://linktr.ee/ighoshsubho"
+}

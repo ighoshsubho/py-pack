@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+ighoshsubho.egg-info/PKG-INFO
+ighoshsubho.egg-info/SOURCES.txt
+ighoshsubho.egg-info/dependency_links.txt
+ighoshsubho.egg-info/top_level.txt

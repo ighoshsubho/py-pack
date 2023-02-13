@@ -1,7 +1,11 @@
 LICENSE
+MANIFEST.in
 README.md
 pyproject.toml
 setup.cfg
+ighoshsubho/README.py
+ighoshsubho/__init__.py
+ighoshsubho/data.json
 ighoshsubho.egg-info/PKG-INFO
 ighoshsubho.egg-info/SOURCES.txt
 ighoshsubho.egg-info/dependency_links.txt
